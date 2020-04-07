@@ -1,0 +1,12 @@
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/bin/Debug/netcoreapp3.1/ServiceClientWrapper.deps.json
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/bin/Debug/netcoreapp3.1/ServiceClientWrapper.runtimeconfig.json
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/bin/Debug/netcoreapp3.1/ServiceClientWrapper.runtimeconfig.dev.json
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/bin/Debug/netcoreapp3.1/ServiceClientWrapper.dll
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/bin/Debug/netcoreapp3.1/ServiceClientWrapper.pdb
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/obj/Debug/netcoreapp3.1/ServiceClientWrapper.csprojAssemblyReference.cache
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/obj/Debug/netcoreapp3.1/ServiceClientWrapper.csproj.CoreCompileInputs.cache
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/obj/Debug/netcoreapp3.1/ServiceClientWrapper.AssemblyInfoInputs.cache
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/obj/Debug/netcoreapp3.1/ServiceClientWrapper.AssemblyInfo.cs
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/obj/Debug/netcoreapp3.1/ServiceClientWrapper.dll
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/obj/Debug/netcoreapp3.1/ServiceClientWrapper.pdb
+/Users/nambuitranthanh/Projects/ServiceClientWrapper/ServiceClientWrapper/obj/Debug/netcoreapp3.1/ServiceClientWrapper.genruntimeconfig.cache

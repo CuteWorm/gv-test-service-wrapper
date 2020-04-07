@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2C7BD41F-B19B-4141-B9C6-5787A52EA54A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ServiceClientWrapper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceClientWrapper/Program.cs">
+    <Files>
+      <File FileName="ServiceClientWrapper/Program.cs" Line="14" Column="68" />
+      <File FileName="ServiceClientWrapper/IHttpClientWrapper.cs" Line="57" Column="6" />
+      <File FileName="ServiceClientWrapper/HttpClientWrapper.cs" Line="105" Column="49" />
+      <File FileName="ServiceClientWrapper/Location.cs" Line="90" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServiceClientWrapper" expanded="True">
+            <Node name="ServiceClientWrapper" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
